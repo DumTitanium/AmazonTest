@@ -2,7 +2,8 @@ import {test, expect} from '../fixtures/Fixtures';
 import {USER_CREDENTIALS} from '../dataForTests/UserCredentials';
 import {SIGN_IN_PAGE_TEXT, HOME_PAGE_TEXT} from '../dataForTests/SiteTexts';
 
-test.beforeEach(async ({page}) => {
+test.beforeEach(async ({}) => {
+    //Some Update
 });
 
 test.beforeAll(async () => {
