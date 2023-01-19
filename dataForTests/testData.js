@@ -1,0 +1,1 @@
+export const fileForUpload = 'D:\\SVN\\Tools\\image.jpg'
